@@ -1,3 +1,33 @@
+# Angular 1 and bpmn-io
+
+bpmn-io is is based on example from https://github.com/bpmn-io/bpmn-js-examples/tree/master/simple-bower
+
+## Build Tool
+Bower install:
+```
+npm i -g bower
+```
+
+# Usage
+
+```
+npm install
+npm start
+http://localhost:8000/app
+```
+
+# What´s changed
+Look at these files for see what you need to copy into your application.
+ * app.js
+ * index.html
+ * bower.json
+ * resources/**
+
+
+# Original Angular information ...
+
+
+
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
