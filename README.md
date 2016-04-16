@@ -23,6 +23,15 @@ Look at these files for see what you need to copy into your application.
  * bower.json
  * resources/**
 
+# Examples
+
+## Single Static BpmnViewer
+```git checkuout -f Static-BpmnViewer```
+then run the same as in "Usage" above.
+
+## Multiple Diagrams
+```git checkuout -f Static-MultipleViews```
+then run the same as in "Usage" above.
 
 # Original Angular information ...
 
